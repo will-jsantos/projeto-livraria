@@ -3,7 +3,7 @@
 """
 Livraria — Controle de Estoque
 ==============================
-
+//pull request test
 Aplicação desktop (Tkinter + SQLite, só biblioteca padrão, Python 3.9+).
 
 Telas
